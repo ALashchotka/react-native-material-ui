@@ -407,7 +407,6 @@ class Toolbar extends PureComponent {
           bgStyle,
           {
             left: bgPosition,
-            backgroundColor: searchActive.backgroundColor,
             transform: [{ scale: searchScaleValue }],
           },
         ]}
